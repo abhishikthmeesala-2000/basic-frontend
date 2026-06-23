@@ -1,2 +1,5 @@
 .DS_Store
 *.log
+.engagement-harness/reports/
+.engagement-harness/feedback/feedback-*.json
+!.engagement-harness/feedback/metrics.json
